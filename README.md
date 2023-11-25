@@ -1,4 +1,4 @@
-# VirtualBox-VD-To-VMDK-Converter
+# VirtualBox-VDİ-To-VMDK-Converter
 This program takes a VDI file and outputs it as a VMDK 
 
 
