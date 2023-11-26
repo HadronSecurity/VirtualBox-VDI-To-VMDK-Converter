@@ -1,0 +1,24 @@
+C:\Users\Ejder\source\repos\VirtualBox To VMware Converter\VirtualBox To VMware Converter\bin\Debug\Guna.UI2.dll
+C:\Users\Ejder\source\repos\VirtualBox To VMware Converter\VirtualBox To VMware Converter\obj\Debug\VirtualBox vdi to vmdk Converter.csproj.AssemblyReference.cache
+C:\Users\Ejder\source\repos\VirtualBox To VMware Converter\VirtualBox To VMware Converter\obj\Debug\VirtualBox_To_VMware_Converter.Form1.resources
+C:\Users\Ejder\source\repos\VirtualBox To VMware Converter\VirtualBox To VMware Converter\obj\Debug\VirtualBox_To_VMware_Converter.Properties.Resources.resources
+C:\Users\Ejder\source\repos\VirtualBox To VMware Converter\VirtualBox To VMware Converter\obj\Debug\VirtualBox vdi to vmdk Converter.csproj.GenerateResource.cache
+C:\Users\Ejder\source\repos\VirtualBox To VMware Converter\VirtualBox To VMware Converter\obj\Debug\VirtualBox vdi to vmdk Converter.csproj.CoreCompileInputs.cache
+C:\Users\Ejder\source\repos\VirtualBox To VMware Converter\VirtualBox To VMware Converter\obj\Debug\VirtualBox vdi to vmdk Converter.csproj.CopyComplete
+C:\Users\Ejder\source\repos\VirtualBox To VMware Converter\VirtualBox To VMware Converter\bin\Debug\VirtualBox_Vdi_to_vmdk_Converter.exe.config
+C:\Users\Ejder\source\repos\VirtualBox To VMware Converter\VirtualBox To VMware Converter\bin\Debug\VirtualBox_Vdi_to_vmdk_Converter.exe
+C:\Users\Ejder\source\repos\VirtualBox To VMware Converter\VirtualBox To VMware Converter\bin\Debug\VirtualBox_Vdi_to_vmdk_Converter.pdb
+C:\Users\Ejder\source\repos\VirtualBox To VMware Converter\VirtualBox To VMware Converter\obj\Debug\VirtualBox_Vdi_to_vmdk_Converter.exe
+C:\Users\Ejder\source\repos\VirtualBox To VMware Converter\VirtualBox To VMware Converter\obj\Debug\VirtualBox_Vdi_to_vmdk_Converter.pdb
+C:\Users\Hydra\Downloads\VirtualBox-VDI-To-VMDK-Converter-virtualbox\VirtualBox To VMware Converter\bin\Debug\VirtualBox_Vdi_to_vmdk_Converter.exe.config
+C:\Users\Hydra\Downloads\VirtualBox-VDI-To-VMDK-Converter-virtualbox\VirtualBox To VMware Converter\bin\Debug\VirtualBox_Vdi_to_vmdk_Converter.exe
+C:\Users\Hydra\Downloads\VirtualBox-VDI-To-VMDK-Converter-virtualbox\VirtualBox To VMware Converter\bin\Debug\VirtualBox_Vdi_to_vmdk_Converter.pdb
+C:\Users\Hydra\Downloads\VirtualBox-VDI-To-VMDK-Converter-virtualbox\VirtualBox To VMware Converter\bin\Debug\Guna.UI2.dll
+C:\Users\Hydra\Downloads\VirtualBox-VDI-To-VMDK-Converter-virtualbox\VirtualBox To VMware Converter\obj\Debug\VirtualBox vdi to vmdk Converter.csproj.AssemblyReference.cache
+C:\Users\Hydra\Downloads\VirtualBox-VDI-To-VMDK-Converter-virtualbox\VirtualBox To VMware Converter\obj\Debug\VirtualBox_To_VMware_Converter.Form1.resources
+C:\Users\Hydra\Downloads\VirtualBox-VDI-To-VMDK-Converter-virtualbox\VirtualBox To VMware Converter\obj\Debug\VirtualBox_To_VMware_Converter.Properties.Resources.resources
+C:\Users\Hydra\Downloads\VirtualBox-VDI-To-VMDK-Converter-virtualbox\VirtualBox To VMware Converter\obj\Debug\VirtualBox vdi to vmdk Converter.csproj.GenerateResource.cache
+C:\Users\Hydra\Downloads\VirtualBox-VDI-To-VMDK-Converter-virtualbox\VirtualBox To VMware Converter\obj\Debug\VirtualBox vdi to vmdk Converter.csproj.CoreCompileInputs.cache
+C:\Users\Hydra\Downloads\VirtualBox-VDI-To-VMDK-Converter-virtualbox\VirtualBox To VMware Converter\obj\Debug\VirtualBox vdi to vmdk Converter.csproj.CopyComplete
+C:\Users\Hydra\Downloads\VirtualBox-VDI-To-VMDK-Converter-virtualbox\VirtualBox To VMware Converter\obj\Debug\VirtualBox_Vdi_to_vmdk_Converter.exe
+C:\Users\Hydra\Downloads\VirtualBox-VDI-To-VMDK-Converter-virtualbox\VirtualBox To VMware Converter\obj\Debug\VirtualBox_Vdi_to_vmdk_Converter.pdb
